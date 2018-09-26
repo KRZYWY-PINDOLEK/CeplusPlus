@@ -4,4 +4,4 @@ Repozytorium utworzone dla pierwszej grupy klasy 2tc Technikum Mechatronicznego 
 
 Rezpozytorium utworzone w celu usprawnienia komunikacji zwiazanej z lekcjami jezyka C++. Mozliwe, ze w przyszlosci bedzie uzywane rownierz do innych jezykow, ktorych bedziemy sie uczyc.
 
-W razie jakichkolwiek watpliwosci prosze o kontakt: xdawidowski@gmail.com
+W razie pytan prosze o kontakt: xdawidowski@gmail.com
