@@ -5,6 +5,9 @@
 
 //edytuje ci koda haaaaaaaaaaaaaaaa
 
+//super Krzysiu witam w naszym przybytku wiedzy i pomocnosci (mam nadzieje ze jest takie slowo)
+//ps jak sie komentuje kod?
+
 using namespace std;
 
 int main()
